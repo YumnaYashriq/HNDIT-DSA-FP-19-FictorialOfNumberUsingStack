@@ -1,6 +1,7 @@
 # Factorial Using Stack
 
 **Author Name**: Yumna Yazrik
+
 **Index Number**: BAT/IT/2022/P/19
 
 ## Project Description
@@ -17,3 +18,5 @@ This project calculates the factorial of a number using a stack data structure. 
       java FactorialUsingStack
 
 ## Expected Output
+![factorial 2024-12-11 224341](https://github.com/user-attachments/assets/3d3e3b91-ff78-4c71-94cf-ce1d06ffc7b1)
+ 
